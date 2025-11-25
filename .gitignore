@@ -19,3 +19,16 @@ notification_config.yaml
 experiments
 lightroom
 scans
+
+# Test scripts
+test_*.sh
+test_*.py
+check_*.sh
+monitor_*.sh
+
+# Local docs
+INSTALLATION_NOTES.md
+TROUBLESHOOTING_SUMMARY.md
+
+# Config (contains local paths)
+scanner_config.json
