@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Film Scanner Tools
+Comment=Outils de post-traitement pour scanner de film 8mm/Super8
+Exec=/home/goss/.local/bin/film-scanner-tools
+Icon=video-x-generic
+Terminal=false
+Categories=AudioVideo;Video;Graphics;
+Keywords=film;scanner;dng;raw;video;8mm;super8;

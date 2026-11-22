@@ -3,4 +3,6 @@ jupyter
 picamerax
 pidng==3.4.7
 pigpio
+pillow
 pyyaml
+customtkinter
